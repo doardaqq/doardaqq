@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou a Eduarda 👋
 
-<!--
-**doardaqq/doardaqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, com interesse em desenvolvimento web, inteligência artificial e tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Cursando Engenharia de Software
+- 🌱 Estudando: lógica de programação, HTML, CSS e JavaScript
+- 🎯 Em busca de oportunidade em IA e tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+HTML5 • CSS3 • JavaScript • Git • GitHub
+
+## Projetos em destaque
+- [Nome do projeto 1](link-do-repositorio): breve descrição
+- [Nome do projeto 2](link-do-repositorio): breve descrição
