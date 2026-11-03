@@ -11,5 +11,6 @@ Estudante de Engenharia de Software, com interesse em desenvolvimento web, intel
 HTML5 • CSS3 • JavaScript • Git • GitHub
 
 ## Projetos em destaque
-- [Nome do projeto 1](link-do-repositorio): breve descrição
-- [Nome do projeto 2](link-do-repositorio): breve descrição
+
+- [ENEMNOTA1000](https://github.com/doardaqq/enemnota1000): Plataforma de estudos para o ENEM, com geração de resumos, quizzes e histórico de atividades, utilizando HTML, JavaScript e Supabase.
+- [Site Tecnologias Emergentes](https://github.com/doardaqq/site-tecnologias-emergentes): Projeto acadêmico de desenvolvimento web utilizando HTML e CSS.
